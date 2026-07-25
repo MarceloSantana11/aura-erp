@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetix - Gestão para Clínicas & Salões de Estética",
+  "description": "Sistema completo de gestão para clínicas de estética com dashboard financeiro, agendamentos, comissões, estoque, marketing e configurações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
